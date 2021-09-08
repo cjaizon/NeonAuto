@@ -6,7 +6,7 @@ But just in case here's the link for the [**Delivery Page**](https://portal.neon
 
 ### The instructions are as following:</h3>
   1. Intall the extension
-  2. Go to the **[Delivery Page]**(https://portal.neondistrict.io/neonpizza/delivery-agents)
+  2. Go to the [**Delivery Page**](https://portal.neondistrict.io/neonpizza/delivery-agents)
   3. Reload the Delivery Page (if needed)
 
 
